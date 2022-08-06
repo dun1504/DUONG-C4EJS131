@@ -19,6 +19,9 @@
     text-decoration: none;
     line-height: 50px;
     font-size: 20px;
-    padding-right: 30px;
+    padding: 16px;
     color: white;
+}
+#navbar ul li a:hover {
+    background-color: #ccc;
 }
